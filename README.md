@@ -4,38 +4,7 @@
 
 ✔I'm a student of  B.A Honours in Economics and also a junior frontend Web-Devoloper.Coading is my addiction.😎
 
-
-sski1
-
-## I'm Munir Hossain Juwel
-
-2
-
-####  Junior Frontend Web Devoloper
-
-3
-
-![I am a Junior Frontend Web Devoloper](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/274942158_460748602461095_3928219980637588962_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH3u1ELopEzmP6nw4-c2wIb3g7DU2GCKm7eDsNTYYIqbqp0fTaxNdjUTZtZRkBHa7-PeGn-Ib5HXfrj2Q_LJE1x&_nc_ohc=mD0nMchF3ZUAX_aHKaT&tn=RbUnj0LLRc_E9UH4&_nc_ht=scontent.fdac14-1.fna&oh=00_AT9YcqXm69ZZcVKfxW9-4mk4hSYXB30I1n8wKgj0WlgZLw&oe=62C2F89F)
-
-4
-
-
-
-5
-
-✔I'm a student of  B.A Honours in Economics and also a junior frontend Web-Devoloper.Coading is my addiction.😎
-
-6
-
-
-
-7
-
-
-
-8
-
-👌Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/GIT
+Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/GIT
 
  ✔🌱 I’m currently learning React 
  ✔👯 I’m looking to collaborate on Github 
