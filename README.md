@@ -15,6 +15,6 @@ Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/GIT
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devoloper-munir&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-munir&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/devoloper-munir)  
+![Profile views](https://gpvc.arturio.dev/developer-munir)  
